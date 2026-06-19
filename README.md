@@ -1,16 +1,21 @@
-# MSG Foundation - Levantamento de Requisitos e Escopo
+# MSG Foundation - Engenharia de Requisitos e Modelagem BPMN
 
-Este repositório contém o mapeamento de requisitos e a organização do fluxo de trabalho para o desenvolvimento do sistema financeiro e de concessão de hipotecas da MSG Foundation.
+Este repositório contém o mapeamento de processos de negócio e o levantamento de requisitos para o desenvolvimento do sistema financeiro e de concessão de hipotecas da MSG Foundation.
 
 ## Objetivo do Projeto
-O objetivo deste trabalho foi realizar a engenharia de requisitos de software, identificando as necessidades de negócio e estruturando o product backlog utilizando metodologias ágeis.
+O objetivo deste trabalho foi estruturar a visão completa do sistema: mapeando o fluxo financeiro e de análise de crédito de ponta a ponta, e traduzindo essas necessidades em requisitos ágeis (Product Backlog).
 
-## O que foi desenvolvido
-* Estruturação Ágil: Divisão dos requisitos de alto nível em Épicos (Epics) e Funcionalidades (Features).
-* Product Backlog: Organização das tarefas focadas em regras de negócio financeiras (como estimativa de fundos, submissão de dados para avaliação e validação de qualificações).
-* Gestão Visual: Gerenciamento das Sprints e fluxo de trabalho através de um quadro Kanban.
+## 1. Modelagem de Processos (BPMN 2.0)
+O fluxo do sistema foi desenhado utilizando a notação BPMN através da ferramenta Camunda, organizando as etapas e responsabilidades do processo de análise financeira, incluindo:
+* Solicitação e submissão de dados financeiros e do imóvel por parte dos clientes.
+* Regras de negócio automatizadas para cálculo de estimativas e gerenciamento de investimentos.
+* Fluxos de validação de qualificação, consulta de fundos e concessão de crédito.
+
+## 2. Levantamento de Requisitos (User Stories)
+* Redação: Criação de histórias de usuário utilizando a estrutura padrão (Como [ator], eu gostaria de [ação] para [objetivo]) focadas nas regras de negócio de hipotecas.
+* Organização do Backlog: Estruturação visual das tarefas, divisão em Épicos e Funcionalidades, e simulação de Sprints utilizando um quadro Kanban.
 
 ## Visualização do Quadro Ágil
-O gerenciamento visual das tarefas e o fluxo de desenvolvimento podem ser visualizados diretamente na aba de projetos:
+O fluxo de desenvolvimento e o backlog podem ser acompanhados diretamente na aba de projetos:
 
 [Clique aqui para acessar o Quadro Kanban do Projeto](https://github.com/users/BernardoLondero/projects/2/views/1)
