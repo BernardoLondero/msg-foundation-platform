@@ -19,3 +19,10 @@ O fluxo do sistema foi desenhado utilizando a notação BPMN através da ferrame
 O fluxo de desenvolvimento e o backlog podem ser acompanhados diretamente na aba de projetos:
 
 [Clique aqui para acessar o Quadro Kanban do Projeto](https://github.com/users/BernardoLondero/projects/2/views/1)
+
+## Equipe
+Este projeto foi desenvolvido colaborativamente por:
+* [Bernardo Londero](https://github.com/BernardoLondero)
+* [Arthur Fontoura](https://github.com/Arthur-Fontoura)
+* [Gustavo Baptista](https://github.com/SakamotoGB)
+* [Chris Radiske](https://github.com/cricri357)
